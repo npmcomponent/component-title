@@ -1,5 +1,5 @@
 {
-  "name": "title",
+  "name": "component-title",
   "description": "Manipulate the document title and reset",
   "version": "1.0.0",
   "keywords": [
@@ -7,15 +7,5 @@
     "document"
   ],
   "dependencies": {},
-  "development": {},
-  "license": "MIT",
-  "component": {
-    "scripts": {
-      "title/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/title.git"
-  }
+  "license": "MIT"
 }
